@@ -11,4 +11,3 @@ public class ConfigClientMain3366 {
         SpringApplication.run(ConfigClientMain3366.class, args);
     }
 }
- 
